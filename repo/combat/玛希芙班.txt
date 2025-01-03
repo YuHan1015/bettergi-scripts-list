@@ -1,0 +1,7 @@
+//作者宇寒
+//有问题及时在群里at我cwc
+玛薇卡 e, wait(0.1)
+希诺宁 e, wait(0.1), attack, wait(0.1), attack, wait(0.1), q, wait(0.1)
+芙宁娜 q, wait(0.1), e, wait(0.1)
+班尼特 q, wait(0.1)
+玛薇卡 q, wait(0.1), attack
